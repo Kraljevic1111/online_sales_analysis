@@ -59,6 +59,5 @@ Tokom razvoja korišćene su sledeće grane:
 - `config.json` – čuva poverljive podatke poput API ključeva i adresa baze podataka.
 - Svi snimci ekrana (`*.png`, `*.jpg`, `*.jpeg`, `*.gif`).
 
-## Zaključak
-Ovaj projekat pruža osnovne funkcionalnosti za analizu online prodaje, rad sa proizvodima i korpom kupaca. Može se dodatno proširiti uvođenjem baza podataka, REST API-ja ili korisničkog interfejsa.
+
 
