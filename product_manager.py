@@ -7,6 +7,9 @@ class ProductManager:
 
     def add_product(self, product):
         self.products.append(product)
+    
+    def remove_product_by_name(self,product_name):
+        self.products -  [p for p in self.products if product_name != product_name]
 
     def display_all_products(self):
         if not self.products:
